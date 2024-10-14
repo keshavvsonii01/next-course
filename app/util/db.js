@@ -1,12 +1,5 @@
 export const users = [
   {
-    "id": "5",
-    "name": "admin",
-    "age": 36,
-    "email": "admin@example.com",
-    "phone": "1234567890"
-  },
-  {
     "id": "4",
     "name": "admin",
     "age": 36,
@@ -39,5 +32,11 @@ export const users = [
     "name": "admin",
     "email": "admin@example.com",
     "password": "1234567890"
+  },
+  {
+    "id": "9",
+    "name": "Keshav",
+    "email": "keshuuu550@gmail.com",
+    "password": "12345678"
   }
 ]
